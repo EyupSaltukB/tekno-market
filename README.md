@@ -15,7 +15,11 @@ BS ile Teknoloji Market tasarımı
 ![](images/tm3-min.png)
 
 # Video
-/Users/saltukbeyhan/Desktop/tekno-market/images/2.mp4
+
+
+https://github.com/EyupSaltukB/tekno-market/assets/129687853/67e758ea-b877-4fc0-b78a-bf67286d9f9f
+
+
 ![]()
 
 # GIF
