@@ -17,7 +17,10 @@ BS ile Teknoloji Market tasarımı
 # Video
 
 
-https://github.com/EyupSaltukB/tekno-market/assets/129687853/67e758ea-b877-4fc0-b78a-bf67286d9f9f
+
+https://github.com/EyupSaltukB/tekno-market/assets/129687853/b2f803f4-7057-4472-9033-e8d491c57920
+
+
 
 
 ![]()
