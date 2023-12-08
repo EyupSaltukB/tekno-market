@@ -15,7 +15,7 @@ BS ile Teknoloji Market tasarımı
 ![](images/tm3-min.png)
 
 # Video
-
+/Users/saltukbeyhan/Desktop/tekno-market/images/2.mp4
 ![]()
 
 # GIF
