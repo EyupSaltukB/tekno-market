@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.card:hover {
+    transform: scale(1.02);
+    transition: all .5s;
+}
+
+.categories {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 8px;
+    cursor: pointer;
+}
+
+.categories a {
+    text-decoration: none;
+    color: orangered;
+}
+
+#phones {
+    display: flex;
+    justify-content: space-around;
+}
+
+.phone-categories {
+    display: flex;
+    flex-direction: column;
+    max-width: 100px;
+}
+
+.card {
+    padding: 10px;
+    display: flex;
+    text-align: center;
+}
+
+.card img{
+    margin-top: 5px;
+}
+
+#computer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.computer-categories {
+    max-width: 100px;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
